@@ -65,8 +65,7 @@
             <th>Total to pay</th>
             <th><input type="text" id="total" name="TextBox3" readonly></th>
         </tr>
-    </table>
-</body>
+    
 	<script type="text/javascript">
            function add_number() {
                 console.log("inside function");
