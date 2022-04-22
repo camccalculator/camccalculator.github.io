@@ -48,7 +48,7 @@
 <br><br>
     <input type="button" name="clickbtn" value="Calculate Fee" onclick="add_number()">
     <br><br>
-	<h3>Below will be caluculated values - you will not be able to enter any numbers below</h3>
+	
         <table border =1 style="width:100%">
         <tr>
             <th>Food Tax 2.25%</th>
