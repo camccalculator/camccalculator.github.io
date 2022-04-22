@@ -6,10 +6,10 @@
 <body>
 <div>
     <div>
-        <h1>Day end Sheet</h1>
-        <h4>Please enter values in all columns, If no value plese enter 0 (zero), do not leave any column empty  </h4>
-	    <h5>Note: Sunday Market Non members Daily parking fee of $10 is auto added to the total to pay below. If you passed $100 please deduct $10 from youtr total </h5>
-	    <h5>Wednesday Market Non members please deduct $10 from the total since there is not parking fee for Wednesday</h5>
+        <h1>Day End Sheet</h1>
+        <h4>Please enter values in all columns, If no value please enter 0 (zero), do not leave any column empty  </h4>
+	    <h5>Note: Sunday Market Non members daily parking fee of $10 is automatically added to the total to pay below. If you passed $100 please deduct $10 from your total </h5>
+	    <h5>Wednesday Market Non members please deduct $10 from the total since there is not a parking fee for Wednesday</h5>
     </div>
     <table border=1 style="width:100%">
         <tr>
@@ -31,7 +31,7 @@
             <th><input type="text" id="nfsale" name="TextBox2"></th>
         <tr>
         <tr>
-            <th>Food Stamp Tookens</th>
+            <th>Food Stamp Tokens</th>
             <th><input type="text" id="fstamp" name="TextBox2"></th>
         <tr>
         <tr>
