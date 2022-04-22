@@ -51,7 +51,7 @@
         <table border =1 style="width:100%">
         <tr>
             <th>Food Tax 2.25%</th>
-            <th><input type="text" id="ftax" name="TextBox2" readonly></th>
+            <th><input type="text" id="ftax" name="TextBox2" disabled></th>
         <tr>
         <tr>
             <th>Non Food Tax 7.55%</th>
