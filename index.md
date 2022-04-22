@@ -8,7 +8,8 @@
     <div>
         <h1>Day end Sheet</h1>
         <h4>Please enter values in all columns, If no value plese enter 0 (zero), do not leave any column empty  </h4>
-	    <h5>Note: For Non members Daily parking fee of $10 is auto added to the total below. If you passed $100 please deduct $10 from youtr total </h5>
+	    <h5>Note: Sunday Market Non members Daily parking fee of $10 is auto added to the total to pay below. If you passed $100 please deduct $10 from youtr total </h5>
+	    <h5>Wednesday Market Non members please deduct $10 from the total since there is not parking fee for Wednesday</h5>
     </div>
     <table border=1 style="width:100%">
         <tr>
